@@ -11,7 +11,7 @@ EX: Collect "Image with no attribute" across 1800 pages. The amount of accessibi
 
 **Image link is missing alternative text**<br>
 The image link is missing an alternative text stating the purpose of the link.<br>
-How to fix it:<br>
+<strong>How to fix it:</strong><br>
 If for instance it links to a web page, state the topic of that page.
 
 ## Alt Text Extractor
